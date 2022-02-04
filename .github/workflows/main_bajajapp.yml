@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'bajajapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_12C3768FE79B4531B06A839B0C290C73 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CC369F3C86B2466F8FF1C24023304D00 }}
